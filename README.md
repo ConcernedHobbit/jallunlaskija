@@ -1,4 +1,4 @@
-# jallulaskija
+# jallunlaskija
 a simple web app to calculate how much budget to provide a team for celebratory purposes
 
 compliant with tko-äly's 2022 board meeting discussions
